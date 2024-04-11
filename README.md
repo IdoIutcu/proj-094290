@@ -1,6 +1,7 @@
 # Instructions on how to run our project
 
 For your convenience, for each code notebook we also included its HTML version, so you have more easy time to read it.
+We also uploaded here a collection of 10 results as a CSV file.
 
 ## Project Notebook
 In order to run our project notebook you should first do the following:
