@@ -11,7 +11,7 @@ In order to run our project notebook you should first do the following:
 2. Connect to our cluster ("cluster_30")
 3. Change the API details in cell 14
 4. Press the "Run all" button
-5. In cell 78 you should insert your Google API key
+5. In cell 71 you should insert your Google API key
 
 ## Project-Statistics Notebook
 In order to run our statistics notebook of the project all by itself you should first do the following:
